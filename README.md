@@ -28,4 +28,6 @@ NoteEase addresses these issues by providing a centralized platform where users 
 
 Moreover, NoteEase's cross-device accessibility ensures that users have access to their notes from their computers, tablets, and smartphones, making it convenient and adaptable to their varying needs.
 You can reach me via email khallistokayne@gmail.com
-In conclusion, NoteEase aims to simplify note-taking and information management, ultimately improving productivity and knowledge organization for users in various domains, including education, work, and personal life.
+In conclusion, NoteEase aims to simplify note-taking and information management, ultimately improving productivity and knowledge organization for users in various domains, including education, work, and personal life.![Screenshot 2023-10-16 105929](https://github.com/mwangikennethkihara/alx_capstone_project/assets/137989270/02d31a21-beaa-4bf8-b7ac-c58fc24b5fb0)
+![Screenshot 2023-10-14 125344 (1)](https://github.com/mwangikennethkihara/alx_capstone_project/assets/137989270/e70fa8fd-e5b8-491f-8ebf-3cfff4f4a950)
+
